@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "quest1": "ts-node the-kingdom-of-algorithmia/quest-1/typescript/main.ts && exit 1"
+    "quest1": "ts-node the-kingdom-of-algorithmia/quest-1/typescript/main.ts && exit 1",
+    "quest2": "ts-node the-kingdom-of-algorithmia/quest-2/typescript/main.ts && exit 1"
   },
   "keywords": [],
   "author": "",
