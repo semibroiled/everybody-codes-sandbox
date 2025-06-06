@@ -59,7 +59,7 @@ function powerWordsInSpell(spell: string, runicWords: string[]): number {
 }
 
 // Part Two
-function runicWordsInSpell(
+export function runicWordsInSpell(
   inscriptions: string[],
   runicWords: string[],
 ): number {
